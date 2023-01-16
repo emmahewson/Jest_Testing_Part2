@@ -1,0 +1,22 @@
+{
+  "name": "jest_testing_part2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmahewson/Jest_Testing_Part2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmahewson/Jest_Testing_Part2/issues"
+  },
+  "homepage": "https://github.com/emmahewson/Jest_Testing_Part2#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
